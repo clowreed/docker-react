@@ -11,6 +11,7 @@ function App() {
       <h1>Hello Mochi!</h1>
       <h1>Hello Chili!</h1>
       <h1>Hello Pepsi!</h1>
+      <h1>Hello Sunny!</h1>
     </div>
   );
 }
